@@ -1,0 +1,32 @@
+# Ignore GDevelop cache and temp files
+.gdevelop-extensions/
+.gdevelopcache/
+.piskel/
+.piskel-files/
+gd-scenes/
+gd-gamestate/
+gd-maps/
+
+# Ignore temporary files and logs
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore environment variables
+.env
+
+# Ignore editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore Node modules if using Node.js
+node_modules/
